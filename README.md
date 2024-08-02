@@ -16,3 +16,9 @@ Follow these steps to get a local copy up and running:
 ```bash
 git clone https://github.com/Cheroo30/Gmovies.git
 cd Gmovies
+
+### Install Dependencies
+Install the required dependencies using npm or Yarn:
+npm install
+# or
+yarn install
