@@ -1,7 +1,5 @@
 # Gmovies
  
-# Gmovies
-
 Gmovies is a [React](https://reactjs.org/) project that provides a movie browsing experience with various features, including authentication and Firebase integration.
 
 ## Installation
