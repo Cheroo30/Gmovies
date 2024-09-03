@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Gmovies/static/css/main.e0f99052.css",
+    "main.js": "/Gmovies/static/js/main.49889a10.js",
+    "static/media/anim.jpg": "/Gmovies/static/media/anim.20e0df5f6535d3999d43.jpg",
+    "static/media/phpic.png": "/Gmovies/static/media/phpic.fad7eb7d7de7a3844f49.png",
+    "static/media/comt.png": "/Gmovies/static/media/comt.dde2f639ea95cd47641d.png",
+    "static/media/g-logo.png": "/Gmovies/static/media/g-logo.e47c5ba77831deb697d3.png",
+    "static/media/404-person.png": "/Gmovies/static/media/404-person.6ef60072958b76936b8a.png",
+    "index.html": "/Gmovies/index.html",
+    "main.e0f99052.css.map": "/Gmovies/static/css/main.e0f99052.css.map",
+    "main.49889a10.js.map": "/Gmovies/static/js/main.49889a10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0f99052.css",
+    "static/js/main.49889a10.js"
+  ]
+}
